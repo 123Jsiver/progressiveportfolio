@@ -1,2 +1,2 @@
-# progressiveportfolio
+# MyPortfolio
 Created with CodeSandbox
